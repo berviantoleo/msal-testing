@@ -1,0 +1,14 @@
+{
+  "name": "msal-testing",
+  "version": "1.0.0",
+  "description": "MSAL testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "msal": "^1.2.1"
+  }
+}
