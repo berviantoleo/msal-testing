@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "msal": "^1.2.1"
+    "msal": "^1.4.16"
   }
 }
